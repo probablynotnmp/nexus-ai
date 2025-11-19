@@ -5,6 +5,11 @@ ___
 
 Nexus is an AI-based Answer Sheet Evaluation System. Created to automate and accelerate the grading process using advanced Natural Language Processing (NLP) Techniques, offering fast and accurate results. Nexus stands for ${\color{blue}N}$ eural ${\color{blue}E}$ valuatory  e ${\color{blue}X}$ pert ${\color{blue}U}$ nified ${\color{blue}S}$ ystem. More information about Nexus and how the system evaluate answers are described in this [NexusAI](https://github.com/umerfar123/um-Answer_Paper_Evaluation_System/blob/main/Nexus_AI.pdf) pdf file.
 
+## Team Members
+1. Umer Farooque
+2. Prathyush N M
+3. Sebinmon V R
+4. Gautham Sugathan S
 ___
 
 > [!NOTE]  
